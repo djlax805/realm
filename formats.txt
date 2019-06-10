@@ -1,0 +1,5 @@
+
+Italics	*italics* or _italics_	Underline italics	__*underline italics*__
+Bold	**bold**	Underline bold	__**underline bold**__
+Bold Italics	***bold italics***	underline bold italics	__***underline bold italics***__
+Underline	__underline__	Strikethrough	 ~~Strikethrough~~
